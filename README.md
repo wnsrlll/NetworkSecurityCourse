@@ -1,6 +1,8 @@
 # NetworkSecurityCourse
 
-네트워크 보안과정 학습 remind 목차.
+### 네트워크/보안 학습 remind 목차.
+
+----
 
 1. Network (Cisco)
 ```
@@ -47,16 +49,9 @@
         - AWS Route53 / DNS Setting
         - AWS CDN
         - AWS Lamda
-        
-
-
 ```
 
 ---
 
 3. 정보보안
-
-
-
-
 

@@ -46,6 +46,7 @@
       <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../autoPosting/autoPosting/src/main/java/com/posting/autoposting/controller/postController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bcfm_sol/.idea/bcfm_sol.iml" beforeDir="false" />
@@ -147,7 +148,7 @@
       <workItem from="1737350710623" duration="4332000" />
       <workItem from="1737420169685" duration="595000" />
       <workItem from="1737444197632" duration="448000" />
-      <workItem from="1738249051745" duration="1416000" />
+      <workItem from="1738249051745" duration="1489000" />
     </task>
     <servers />
   </component>
