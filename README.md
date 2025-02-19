@@ -1,13 +1,23 @@
-# NetworkSecurityCourse
+# NetworkSecurity Course
 
-- 김정우 T
+(2024.09 ~ 2025.04)
+
+
+- 김정우 선생님.
+
 
 ### 네트워크/보안 학습 remind 목차.
+
+학습한 내용들을 개인적으로 목차 별 리마인드하기 위해 작성하였습니다.
+<br>
+학습 내용은 저작권 및 보안 관계로 별도 정리 및 공유하지 않습니다.
+<br>
+항목 별 보안 접근 방향등을 확인하면 좋을 것 같아 항목 위주로 공유합니다.
 
 ----
 
 
-1. Network (Cisco)
+##  1. Network (Cisco)
 ```
     - IP Routing.
         - Static Route
@@ -32,7 +42,7 @@
 ```
 ---
 
-2. Virtualizaition
+## 2. Virtualizaition
 ```
     - Docker/K8S Ochestration.
     
@@ -71,5 +81,25 @@
 
 ---
 
-3. 정보보안
+## 3. 정보보안
+```
+    - Network Security
+        - Protocols
+        - WireSharkFilter
+        - Ehternet Header
+        - ARP & DNS Spoofing
+        - ICMP, TCP, UDP Flooding
+        - Attack SourceCode
+        - nmap
+        - Analyzing attack packets
+        - Password cracking
+        - Collecting information
+        - ACL-based packet filtering
+        - Network FireWall
+        - L2 Attack, preventing
+        - UTM Firewall
+        - Snort IDS
+        - Docker mockup
 
+```
+   
