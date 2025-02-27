@@ -11,9 +11,6 @@
 학습한 내용들을 개인적으로 목차 별 리마인드하기 위해 작성하였습니다.
 <br>
 학습 내용은 저작권 및 보안 관계로 별도 정리 및 공유하지 않습니다.
-<br>
-항목 별 보안 접근 방향을 확인하면 좋을 것 같아 항목 위주로 정리하였습니다.
-
 ----
 
 
@@ -42,9 +39,10 @@
 ```
 ---
 
-## 2. Virtualizaition
+## 2. Virtualization
 ```
     - Docker/K8S Ochestration.
+        - 
     
     - AWS
         - Cloud Formation
@@ -81,7 +79,7 @@
 
 ---
 
-## 3. 정보보안
+## 3. InfoSecurity
 ```
     - Network Security
         - Protocols
@@ -101,8 +99,11 @@
         - Snort IDS
         - Docker mockup
     
+    
     - System Security
     
     - WEB Security
+    
+    
 ```
    
