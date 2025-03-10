@@ -2,7 +2,6 @@
 
 (2024.09 ~ 2025.04)
 
-
 - 김정우 선생님.
 
 
@@ -101,9 +100,21 @@
     
     
     - System Security
+        - Penetration Testing
+            - Bind & Reverse TCP
+            - SetUID
+            - nmap
+            - Bash ShellShock
+            - Nessus (Container Orchestration)
+            - Metasploit
+            - Meterpreter
+            - Setoolkit
+        
+        - Assembly Lnag
+        
+        - FTZ
+    
     
     - WEB Security
-    
-    
 ```
    
