@@ -112,7 +112,7 @@
             - Meterpreter
             - Setoolkit
         
-        - Assembly Lnag
+        - Assembly
         
         - FTZ
     
@@ -120,4 +120,3 @@
     - WEB Security
         - 
 ```
-   
