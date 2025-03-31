@@ -2,7 +2,6 @@
 
 ( 교육 기간 - 2024.09 ~ 2025.04 )
 
-
 - 김정우 선생님.
 
 
@@ -115,5 +114,25 @@
         - Assembly
         
         - FTZ
+        
+    - Web Security
+        - HTML Injection
+        - OS Command Injection
+        - Sql Injction - mysql / bWAPP DB / REST API
+        - XML/XPATH Injection
+        - XSS Injection
+        - Broken Auth
+        - Insecure DOR
+        - Path Travrsal
+        - Sensitive Data Exposure
+        - Cross-Site Request Forgery
+        - RFI & LFI
+        - XML External Entity Attacks
+        - Bash Shell shock
+        - Unvalidated Redirects
+        - Snort IDS
+    
+    
+    
     
 ```
