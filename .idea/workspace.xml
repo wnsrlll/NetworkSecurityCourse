@@ -21,31 +21,6 @@
       <change afterPath="$PROJECT_DIR$/../jgkim/forme/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jgkim/forme/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jgkim/forme/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/application-metrics-example/application-metrics-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/atomic-integer-example/atomic-integer-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/atomic-reference-example/atomic-reference-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/critical-sections-and-synchronization-example/critical-sections-and-synchronization-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/data-races-example/data-races.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/deadlocks-example/deadlocks-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/high-performance-io-virtual-threads/high-performance-io-virtual-threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/intro-to-virtual-threads/intro-to-virtual-threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/introduction-to-critical-sections-example/introduction-to-critical-sections-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/io-bound-application/io-bound-application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/joining-threads-example/joining-threads-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/optimizing-for-latency-example/optimizing-for-latency-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/optimizing-for-throughput-example/optimizing-for-throughput-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/read-write-lock-example/read-write-lock-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/reentrantlock-example/reentrantlock-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/thread-creation-part2-example/thread-creation-part2-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/threads-creation-part1/threads-creation-part1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/all_code_example/wait-notify-example/wait-notify-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/section2/thread-creation-part2-example/thread-creation-part2-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../UDEMY/multiThreading/section2/threads-creation-part1/threads-creation-part1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/COIN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../씨앤에스솔루션/COIN/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../autoPosting/autoPosting/src/main/java/com/posting/autoposting/controller/postController.java" beforeDir="false" />
@@ -114,12 +89,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="NetworkSecurityCourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="NetworkSecurityCourse" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="NetworkSecurityCourse" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="NetworkSecurityCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="NetworkSecurityCourse" />
@@ -156,6 +167,33 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="NetworkSecurityCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="NetworkSecurityCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -262,7 +300,8 @@
       <workItem from="1741576956245" duration="2607000" />
       <workItem from="1741657254783" duration="609000" />
       <workItem from="1741942456485" duration="1201000" />
-      <workItem from="1743404583173" duration="292000" />
+      <workItem from="1743404583173" duration="376000" />
+      <workItem from="1744009284646" duration="190000" />
     </task>
     <servers />
   </component>

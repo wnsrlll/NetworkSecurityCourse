@@ -8,8 +8,6 @@
 ### 네트워크/보안 학습 remind 목차.
 
 학습한 내용들을 개인적으로 목차 별 리마인드하기 위해 작성하였습니다.
-<br>
-학습 내용은 저작권 및 보안 관계로 별도 정리 및 공유하지 않습니다.
 
 ----
 
@@ -111,8 +109,6 @@
             - Meterpreter
             - Setoolkit
         
-        - Assembly
-        
         - FTZ
         
     - Web Security
@@ -132,6 +128,9 @@
         - Unvalidated Redirects
         - Snort IDS
     
+    - Reversing
+        - Reversing
+        - Assembly
     
     
     
