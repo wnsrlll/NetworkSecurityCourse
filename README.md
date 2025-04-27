@@ -1,15 +1,7 @@
 # NetworkSecurity Course
 
-( 교육 기간 - 2024.09 ~ 2025.04 )
+( 교육 기간 - 2024.09.15 ~ 2025.04.28 )
 
-- 김정우 선생님.
-
-
-### 네트워크/보안 학습 remind 목차.
-
-학습한 내용들을 개인적으로 목차 별 리마인드하기 위해 작성하였습니다.
-
-----
 
 
 ##  1. Network (Cisco)
@@ -71,7 +63,6 @@
         - ansible project managing
         - ansible role
         - cisco Routing, Switching Using Ansible
-         
         
 ```
 
@@ -119,7 +110,7 @@
         - XSS Injection
         - Broken Auth
         - Insecure DOR
-        - Path Travrsal
+        - Path Traversal
         - Sensitive Data Exposure
         - Cross-Site Request Forgery
         - RFI & LFI
@@ -131,7 +122,20 @@
     - Reversing
         - Reversing
         - Assembly
-    
-    
-    
+
+
+    - Malware
+        - Packing & Unpacking
+        - Downloader File Analysis	
+        - Dropper File Analysis	
+        - PowerShell
+        - JavaScript
+        - VBA (Visual Basic for Applications)
+        - RTF (Rich Text Format)
+        - DDE (Dynamic Data Exchange)
+        - HWP (Hangul Word Processor)
+        - PDF (Portable Document Format)
+        - Poweliks
+        - Volatility
+
 ```
