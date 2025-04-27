@@ -31,7 +31,7 @@
 
 ## 2. Virtualization
 ```
-    - Docker/K8S Ochestration.
+    - Docker/K8S Orchestration.
         - 
     
     - AWS
